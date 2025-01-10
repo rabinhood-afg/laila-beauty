@@ -571,9 +571,7 @@ form .btn2 {
 /* braekpoints */
 
 @media (max-width: 1200px) {
-  * {
-    overflow-x: hidden;
-  }
+ 
 
   html {
     font-size: 55%;
