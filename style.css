@@ -704,4 +704,20 @@ form .btn2 {
     font-size: 18px;
     margin-top: 20px;
   }
+
+  .card-d{
+    display: block;
+    position: absolute;
+    margin: 5%  13rem;
+    font-size: small;
+    color: var(--text-color);
+    border: 2px solid var(--main-color);
+    background-color: rgb(21, 21, 21);
+    opacity: 40%;
+    border-radius: 3rem;
+  }
+
+  .card-d h4{
+    padding: 0 1rem;
+  }
 }
