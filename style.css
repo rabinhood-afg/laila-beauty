@@ -315,6 +315,10 @@ span {
   overflow: hidden;
 }
 
+.card-d{
+  display: none;
+}
+
 .card-img {
   width: 328px;
   border-radius: 1.5rem;
